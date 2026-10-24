@@ -1,0 +1,6 @@
+{
+  "name": "TabbySpar - Free Debate Tab & AI Sparring Zone",
+  "description": "A 100% free, zero-coding alternative to Tabbycat with Swiss round pairings, WSDC/BP tabulations, and an AI-moderated Debate Spar Zone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
